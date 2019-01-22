@@ -2,6 +2,8 @@ PyBank
 
 Created a Python script for analyzing the financial records of a company. Based on the financial data called [budget_data.csv](PyBank/raw_data/budget_data2.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 
+![png](https://github.com/alphacart/Python-Random/blob/master/PyBank/raw_data/revenue-per-lead.jpg)
+
 *  Created a Python script that analyzes the records to calculate each of the following:
 
   * The total number of months included in the dataset
@@ -24,6 +26,8 @@ Created a Python script for analyzing the financial records of a company. Based 
 * Final script will print the analysis to the terminal and export a text file with the results.# 
 
 PyBoss
+
+![png](https://github.com/alphacart/Python-Random/blob/master/PyBoss/raw_data/boss.jpg)
 
 Created a Python script to read csv file and store employee records in new csv file
 
